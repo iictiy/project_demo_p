@@ -2,4 +2,4 @@
 next.js
 
 
-## This next.js lenrn project
+## This next.js learn project
